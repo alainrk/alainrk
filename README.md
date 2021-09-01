@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My recent projects and collaborations:
+
+- [quick-match](https://github.com/alainrk/quick-match)
+- [keepy-cli](https://github.com/Eomm/keepy-cli)
+- [sentence-splitter](https://github.com/alainrk/sentence-splitter) 
