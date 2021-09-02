@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Github language stats:
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alainrk&layout=compact&theme=material-palenight" />
 -->
 
 My recent projects and collaborations:
@@ -20,3 +23,4 @@ My recent projects and collaborations:
 - [quick-match](https://github.com/alainrk/quick-match)
 - [keepy-cli](https://github.com/Eomm/keepy-cli)
 - [sentence-splitter](https://github.com/alainrk/sentence-splitter) 
+
