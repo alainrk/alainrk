@@ -22,8 +22,4 @@ My recent projects and collaborations:
 
 - [quick-match](https://github.com/alainrk/quick-match)
 - [keepy-cli](https://github.com/Eomm/keepy-cli)
-- [sentence-splitter](https://github.com/alainrk/sentence-splitter) 
-
-<iframe src="https://github.com/alainrk" title="Recursive me"></iframe>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alainrk&layout=compact&theme=material-palenight" />
-
+- [sentence-splitter](https://github.com/alainrk/sentence-splitter)
