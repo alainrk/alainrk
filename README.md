@@ -25,5 +25,5 @@ My recent projects and collaborations:
 - [sentence-splitter](https://github.com/alainrk/sentence-splitter) - NLP related stuff
 
 Experimenting:
-- [node-balancer](https://github.com/alainrk/node-balancer) - Testing node stuff for simple clustered load balancer
+- [node-balancer](https://github.com/alainrk/node-balancer) - Testing node stuff for a simple clustered load balancer
 - [seraph](https://github.com/alainrk/seraph) - Go CLI multi-vault secrets/password manager
