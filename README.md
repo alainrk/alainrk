@@ -20,6 +20,10 @@ Github language stats:
 
 My recent projects and collaborations:
 
-- [quick-match](https://github.com/alainrk/quick-match)
-- [keepy-cli](https://github.com/Eomm/keepy-cli)
-- [sentence-splitter](https://github.com/alainrk/sentence-splitter)
+- [quick-match](https://github.com/alainrk/quick-match) - Offline fast quickreplies/intent recognition
+- [Eomm/keepy-cli](https://github.com/Eomm/keepy-cli) - .env and secrets management
+- [sentence-splitter](https://github.com/alainrk/sentence-splitter) - NLP related stuff
+
+Experimenting:
+- [node-balancer](https://github.com/alainrk/node-balancer) - Testing node stuff for simple clustered load balancer
+- [seraph](https://github.com/alainrk/seraph) - Go CLI multi-vault secrets/password manager
