@@ -10,4 +10,4 @@ Experimenting:
 - [pacmad](https://github.com/alainrk/pacmad) - Arcade game made in Go
 - [node-balancer](https://github.com/alainrk/node-balancer) - Testing node stuff for a simple clustered load balancer
 - [seraph](https://github.com/alainrk/seraph) - Go CLI multi-vault secrets/password manager
-- [ftools](https://github.com/alainrk/ftools) - Functional tools for Go based on Generics.
+- [ftools](https://github.com/alainrk/ftools) - Go utility library inspired by lodash.
