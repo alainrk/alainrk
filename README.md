@@ -11,3 +11,8 @@ Experimenting:
 - [pacmad](https://github.com/alainrk/pacmad) - Arcade game made in Go
 - [node-balancer](https://github.com/alainrk/node-balancer) - Testing node stuff for a simple clustered load balancer
 - [seraph](https://github.com/alainrk/seraph) - Go CLI multi-vault secrets/password manager
+
+
+![image](https://www.codewars.com/users/alaindev/badges/micro)
+![image](https://www.codewars.com/users/alaindev/badges/small)
+![image](https://www.codewars.com/users/alaindev/badges/large)
