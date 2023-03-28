@@ -30,6 +30,6 @@ Experimenting:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,nodejs,python,js,bash,c" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,python,js,bash,c,php" />
   </a>
 </p>
