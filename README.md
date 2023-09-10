@@ -31,6 +31,6 @@ Experimenting:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,nodejs,python,js,bash,c,php" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,python,bash,docker,kubernetes,aws,c" />
   </a>
 </p>
