@@ -9,7 +9,7 @@ My recent projects and collaborations:
 - [Eomm/keepy-cli](https://github.com/Eomm/keepy-cli) - .env and secrets management
 
 Experiments:
-- [franz](https://github.com/alainrk/franz) - Kafka topics analyzer writte in Go
+- [franz](https://github.com/alainrk/franz) - Kafka topics analyzer written in Go
 - [sentence-splitter](https://github.com/alainrk/sentence-splitter) - NLP related stuff
 - [pacmad](https://github.com/alainrk/pacmad) - Arcade game made in Go
 - [node-balancer](https://github.com/alainrk/node-balancer) - Testing node stuff for a simple clustered load balancer
