@@ -1,6 +1,7 @@
 ### Hi there 👋  I'm here to learn!
 
 My recent projects and collaborations:
+- [Mortgage Calculator](https://github.com/alainrk/mortgage) - Mortgage Calculator using Equated monthly installment
 - [flemq](https://github.com/alainrk/flemq) - Flexible message queue redis-inspired
 - [keyll](https://alainrk.github.io/keyll/) - Touch typing tool written in p5.js and svelte
 - [Barbell Loader](https://github.com/alainrk/barbell-loader) - Powerlifting barbell/dumbbells load helper tool
