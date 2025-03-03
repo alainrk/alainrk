@@ -1,4 +1,6 @@
-### alainrk@hal9000$ whoami
+```sh
+alainrk@hal9000$ whoami
+```
 
 <!-- <div align="center"> -->
 <!--   <img src="./assets/qrcode.png" width="300" height="auto"/> -->
