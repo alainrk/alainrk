@@ -11,9 +11,11 @@
 </p>
 -->
 
+```sh
 nrk@hal9000>$ finger alain
 Login: alain          			Name: alain
 Directory: /Users/alain             	Shell: /bin/zsh
 On since Tue Aug 01 15:00 (CEST) on console,       idle 1 day 8:02
 
 Plan: Human being questioning life and universe
+```
