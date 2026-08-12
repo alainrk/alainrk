@@ -1,4 +1,4 @@
-<!-- ![https://www.codewars.com/users/alaindev](https://www.codewars.com/users/alaindev/badges/micro) -->
+<!-- ![https://www.codewars.com/users/alaindev](https://www.codewars.com/users/alaindev/badges/micro)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,go,nodejs,ts,python,zig,bash,p5js" />
@@ -9,3 +9,11 @@
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,aws,kafka,nginx,github,vim,neovim,linux" />
   </a>
 </p>
+-->
+
+nrk@hal9000>$ finger alain
+Login: alain          			Name: alain
+Directory: /Users/alain             	Shell: /bin/zsh
+On since Tue Aug 01 15:00 (CEST) on console,       idle 1 day 8:02
+
+Plan: Human being questioning life and universe
